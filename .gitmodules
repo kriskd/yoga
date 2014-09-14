@@ -1,0 +1,3 @@
+[submodule "Config"]
+	path = Config
+	url = ssh://cakeconfig@ardmore.dreamhost.com/home/cakeconfig/cakeconfig.dreamhosters.com/yoga-config.git
